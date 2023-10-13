@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: 'jdbc:sqlserver://DESKTOP-T1BUVLE\SQLEXPRESS01;encrypt=false;integratedSecurity=true;databaseName=Training'

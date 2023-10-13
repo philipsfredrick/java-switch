@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Design Patters">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/adapterpattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/decoratorpattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/factorymethodpattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/commandpattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ObserverPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/compositepattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/interpreterpattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/facadepattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/StrategyPattern.zip!/" />
+      <root url="jar://$PROJECT_DIR$/singleton.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

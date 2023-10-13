@@ -1,0 +1,37 @@
+#server:
+#  port: 30667
+#
+#spring:
+#  datasource:
+#    url:
+#    username:
+#    password:
+#
+#  jpa:
+#    generate-ddl: false
+#    hibernate:
+#        dialect: org.hibernate.dialect.SQLServerDialect
+#        ddl-auto: update
+#        naming:
+#            physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+##spring:
+##  application:
+##    name: bank-service
+##  datasource:
+##    driver-class-name: com.mysql.cj.jdbc.Driver
+##    url: jdbc:mysql://localhost:33465/bank_service?useSSL=false&useUnicode=true&characterEncoding=utf-8&allowPublicKeyRetrieval=true
+##    username: root
+##    password: 12345678
+##    type: com.zaxxer.hikari.HikariDataSource
+##  jpa:
+##    generate-ddl: false
+##    hibernate:
+##      ddl-auto: none
+##      naming:
+##        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+#management:
+#  endpoints:
+#    web:
+#      base-path: /manage
+#      exposure:
+#        include: *

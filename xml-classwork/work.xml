@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <name>Olanrewaju Ali</name>
+    <phone-number>
+        <work>08069567890</work>
+        <home>08069567890</home>
+    </phone-number>
+    <address>
+        <city>Wuse II</city>
+        <house-no>7 Obafemi Street</house-no>
+        <postal-code>232323-09</postal-code>
+        <state>FCT Abuja</state>
+    </address>
+    <department>
+        <name>IT</name>
+        <manager>
+            <name>Muhammad Ali</name>
+            <phone-number>
+                <work>07089765411</work>
+            </phone-number>
+        </manager>
+    </department>
+</employee>
